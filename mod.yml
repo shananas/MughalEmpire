@@ -1,0 +1,29 @@
+title: Mughal Empire
+originalAuthor: Shananas
+description:
+assets:
+- name: obj/M_EX020.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX020.mdlx
+- name: obj/M_EX020_RAW.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX020_RAW.mdlx
+- name: obj/M_EX020_NM.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX020_NM.mdlx
+- name: obj/M_EX020_NM_RAW.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX020_NM_RAW.mdlx
+- name: obj/M_EX020_WI.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX020_WI.mdlx
+- name: obj/M_EX020_WI_RAW.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX020_WI_RAW.mdlx
+    
