@@ -26,4 +26,11 @@ assets:
   method: copy
   source:
    - name: obj/M_EX020_WI_RAW.mdlx
-    
+- name: obj/M_EX420.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX420.mdlx
+- name: obj/M_EX420_NM.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX420_NM.mdlx
