@@ -1,6 +1,6 @@
 title: Mughal Empire
 originalAuthor: Shananas
-description:
+game: kh2
 assets:
 - name: obj/M_EX020.mdlx
   method: copy
